@@ -1,0 +1,3 @@
+
+
+LangChain is a development framework that simplifies building applications powered by large language models by providing abstractions to chain components, manage context, and integrate with external data sources and tools.
