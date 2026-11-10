@@ -1,0 +1,5 @@
+AIMessage
+Tokyo
+qwen/qwen3.6-27b
+stop
+{'input_tokens': 24, 'output_tokens': 3, 'total_tokens': 27, 'input_token_details': {}, 'output_token_details': {'reasoning': 0}}

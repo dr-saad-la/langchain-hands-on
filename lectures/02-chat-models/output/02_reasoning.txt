@@ -1,0 +1,4 @@
+thinking off: 0.8 s, 0 reasoning tokens
+0.05
+thinking on: 59.3 s, 1013 reasoning tokens
+$0.05

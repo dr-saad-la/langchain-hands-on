@@ -1,0 +1,8 @@
+thinking off
+  text: 'A **Large Language Model (LLM)** is a type of artificial intelligence algorithm that is trained'
+  finish_reason: length
+  tokens: {'reasoning': 0}
+thinking on
+  text: ''
+  finish_reason: length
+  tokens: {'reasoning': 19}

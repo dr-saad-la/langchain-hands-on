@@ -1,0 +1,8 @@
+temperature 0.0
+  Brewing moments, one cup at a time.
+  Brewing moments, one cup at a time.
+  Brewing moments, one cup at a time.
+temperature 1.5
+  Fueling your day, one sip at a time.
+  Wake up to your best self, one cup at a time.
+  Wake up to greatness in every cup.

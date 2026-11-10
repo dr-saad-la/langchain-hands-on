@@ -26,6 +26,7 @@ Everything runs on your own machine, with a local model: free, no API key.
 |---|---|---|
 | 00 | [Introduction: what LangChain is, and the road ahead](lectures/00-intro/) |  |
 | 01 | [Project setup: LM Studio, uv, and the first call](lectures/01-setup/) |  |
+| 02 | [Chat models: invoke, reasoning, temperature, and tokens](lectures/02-chat-models/) |  |
 
 Each lecture's folder has its code, a README with what to run, and `output/`:
 the real output recorded for the video.
